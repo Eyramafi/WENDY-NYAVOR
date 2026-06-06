@@ -27,6 +27,9 @@ My goal is to support strategic decision-making through accurate financial insig
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 ![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-blue?style=for-the-badge)
 
 ![Financial Modelling](https://img.shields.io/badge/Financial%20Modelling-darkblue?style=for-the-badge)
@@ -36,8 +39,6 @@ My goal is to support strategic decision-making through accurate financial insig
 ![Forecasting](https://img.shields.io/badge/Forecasting-orange?style=for-the-badge)
 
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-purple?style=for-the-badge)
-
-![Economics](https://img.shields.io/badge/Economics-grey?style=for-the-badge)
 
 ---
 
