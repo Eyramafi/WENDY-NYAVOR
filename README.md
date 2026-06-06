@@ -21,15 +21,22 @@ My goal is to support strategic decision-making through accurate financial insig
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Financial Skills & Tools
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-blue?style=for-the-badge)
+
 ![Financial Modelling](https://img.shields.io/badge/Financial%20Modelling-darkblue?style=for-the-badge)
+
 ![Budgeting](https://img.shields.io/badge/Budgeting-green?style=for-the-badge)
+
 ![Forecasting](https://img.shields.io/badge/Forecasting-orange?style=for-the-badge)
+
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-purple?style=for-the-badge)
+
 ![Economics](https://img.shields.io/badge/Economics-grey?style=for-the-badge)
 
 ---
