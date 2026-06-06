@@ -96,8 +96,10 @@ A financial control model comparing planned budgets against actual performance.
 
 ## 📫 Contact
 
-📧 Email: eyramwen@gmail.com 
-🔗 LinkedIn: your LinkedIn here  
+📧 Email: eyramwen@gmail.com
+
+🔗 LinkedIn: 
+
 
 ---
 
